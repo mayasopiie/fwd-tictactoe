@@ -90,3 +90,33 @@
 .input-append .win_text {
     width: 52px
 }
+
+#start-button{
+    margin-bottom: 10px;
+    margin-left: 60px;
+}
+
+#reset{
+    margin-bottom: 10px;
+}
+
+#quit{
+    margin-bottom: 10px;
+}
+
+#scoreboard{
+    display: none
+}
+
+#playboard{
+    display: none
+}
+
+#navigation-history{
+    display:none;
+    margin-left: 100px auto;
+}
+
+#navigation-title{
+    margin-top: 50px;
+}
